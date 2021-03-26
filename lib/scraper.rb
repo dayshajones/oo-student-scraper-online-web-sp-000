@@ -1,4 +1,4 @@
-require 'open-uri'
+yourequire 'open-uri'
 require 'pry'
 
 class Scraper
